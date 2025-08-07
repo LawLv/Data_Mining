@@ -1,4 +1,4 @@
-# ID2222 – Data Mining Course Assignments
+# Data Mining Projects
 
 This repository contains assignments for the **ID2222 Data Mining** course. The contents include several homework folders (e.g., `homework1`, `homework2`, through `homework5`), along with reports and supporting files.
 
